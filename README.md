@@ -1,5 +1,8 @@
 # Editor de Texto com Desfazer e Refazer
 
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-orange)
+![Licença](https://img.shields.io/badge/license-MIT-green)
+
 ## Descrição
 Editor minimalista que implementa operações de desfazer/refazer com duas pilhas, simulando o comportamento básico de aplicativos de edição de texto.
 
